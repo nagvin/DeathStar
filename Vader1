@@ -1,2 +1,9 @@
-Design details - not to be shared with the rebels
-Written in python
+#! /bin/python
+
+#Design details - not to be shared with the rebels
+
+for i in DeathStar
+  rebels = 0
+  rebellion = 0
+  
+ 
